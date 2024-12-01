@@ -1,0 +1,42 @@
+name: hbbh
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_riverpod: ^2.3.6
+  google_fonts: ^6.2.1
+  go_router: ^14.3.0
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+  firebase_storage: ^12.3.3
+  shared_preferences: ^2.1.1
+  carousel_slider: ^5.0.0
+  intl: ^0.19.0
+  share_plus: ^10.1.0
+  firebase_app_check: ^0.3.1+3
+  url_launcher: ^6.1.14
+  package_info_plus: ^4.1.0
+  image_picker: ^1.1.2
+  path: ^1.9.0
+  reorderable_grid_view: 2.2.8
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/

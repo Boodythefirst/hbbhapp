@@ -1,0 +1,198 @@
+{
+    "spots": [
+      {
+        "id": "1",
+        "name": "The 3rd Grind",
+        "image": "assets/images/grind_coffee.jpg",
+        "carousel_images": [
+          "assets/images/grind_coffee1.jpg",
+          "assets/images/grind_coffee2.jpg",
+          "assets/images/grind_coffee3.jpg"
+        ],
+        "priceRange": "$$",
+        "type": "Cafe",
+        "rating": 4.5,
+        "tags": ["Coffee", "Breakfast", "Cozy"],
+        "description": "A trendy coffee shop with a wide variety of specialty coffees and pastries.",
+        "featured": true,
+        "recentCheckIns": [
+          {"name": "Sara", "timestamp": "2023-06-15T09:30:00Z"},
+          {"name": "Mohammed", "timestamp": "2023-06-15T08:45:00Z"}
+        ],
+        "reviews": [
+          {"name": "Fatima", "rating": 5, "text": "Best coffee in Riyadh! Love the cozy atmosphere."},
+          {"name": "Ahmed", "rating": 4, "text": "Great place for breakfast meetings. Pastries are delicious."}
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Takya Bistro",
+        "image": "assets/images/takya_bistro.jpg",
+        "carousel_images": [
+          "assets/images/takya_bistro2.jpg",
+          "assets/images/takya_bistro3.jpg",
+          "assets/images/takya_bistro4.jpg"
+        ],
+        "priceRange": "$$$",
+        "type": "Restaurant",
+        "rating": 4.7,
+        "tags": ["Fine Dining", "Fusion", "Romantic"],
+        "description": "An upscale bistro offering a unique blend of local and international cuisines.",
+        "featured": true,
+        "recentCheckIns": [
+          {"name": "Lina", "timestamp": "2023-06-15T20:00:00Z"},
+          {"name": "Khalid", "timestamp": "2023-06-15T19:30:00Z"}
+        ],
+        "reviews": [
+          {"name": "Noura", "rating": 5, "text": "Exquisite fusion cuisine! Perfect for a romantic dinner."},
+          {"name": "Abdullah", "rating": 4, "text": "Innovative dishes and great ambiance. A bit pricey but worth it."}
+        ]
+      },
+      {
+        "id": "3",
+        "name": "The Zone",
+        "image": "assets/images/the_zone.jpg",
+        "carousel_images": [
+          "assets/images/the_zone1.jpg",
+          "assets/images/the_zone2.jpg",
+          "assets/images/the_zone3.jpg",
+          "assets/images/the_zone4.jpg"
+        ],
+        "priceRange": "$$",
+        "type": "Entertainment",
+        "rating": 4.3,
+        "tags": ["Shopping", "Movies", "Family-friendly"],
+        "description": "A modern entertainment complex with shops, restaurants, and a multiplex cinema.",
+        "featured": false,
+        "recentCheckIns": [
+          {"name": "Reem", "timestamp": "2023-06-15T18:15:00Z"},
+          {"name": "Omar", "timestamp": "2023-06-15T17:45:00Z"}
+        ],
+        "reviews": [
+          {"name": "Aisha", "rating": 4, "text": "Great place for family outings. Lots of options for everyone."},
+          {"name": "Yasser", "rating": 5, "text": "Love the cinema here! Always a fun time."}
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Riyadh Front",
+        "image": "assets/images/riyadh_front.jpg",
+        "carousel_images": [
+          "assets/images/riyadh_front1.jpg",
+          "assets/images/riyadh_front2.jpg"
+        ],
+        "priceRange": "$$$",
+        "type": "Shopping",
+        "rating": 4.6,
+        "tags": ["Luxury", "Fashion", "Dining"],
+        "description": "A high-end shopping destination featuring international brands and gourmet restaurants.",
+        "featured": true,
+        "recentCheckIns": [
+          {"name": "Layla", "timestamp": "2023-06-15T16:30:00Z"},
+          {"name": "Faisal", "timestamp": "2023-06-15T15:45:00Z"}
+        ],
+        "reviews": [
+          {"name": "Hana", "rating": 5, "text": "Shopping paradise! All my favorite luxury brands in one place."},
+          {"name": "Majid", "rating": 4, "text": "Impressive selection of stores. The restaurants are top-notch too."}
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Diriyah Oasis",
+        "image": "assets/images/diriyah_oasis.jpg",
+        "carousel_images": [
+          "assets/images/diriyah_oasis1.jpg",
+          "assets/images/diriyah_oasis2.jpg",
+          "assets/images/diriyah_oasis3.jpg",
+          "assets/images/diriyah_oasis4.jpg",
+          "assets/images/diriyah_oasis5.jpg"
+        ],
+        "priceRange": "$$$$",
+        "type": "Entertainment",
+        "rating": 4.8,
+        "tags": ["Cultural", "Historical", "Scenic"],
+        "description": "A beautifully restored historical area offering a glimpse into traditional Saudi culture.",
+        "featured": true,
+        "recentCheckIns": [
+          {"name": "Nasser", "timestamp": "2023-06-15T11:00:00Z"},
+          {"name": "Maha", "timestamp": "2023-06-15T10:30:00Z"}
+        ],
+        "reviews": [
+          {"name": "Turki", "rating": 5, "text": "A must-visit to understand Saudi history and culture!"},
+          {"name": "Nora", "rating": 5, "text": "Beautiful restoration work, very informative guides."}
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Elixir Bunn Coffee Roasters",
+        "image": "assets/images/elixir_bunn.jpg",
+        "carousel_images": [
+          "assets/images/elixir_bunn1.jpg",
+          "assets/images/elixir_bunn2.jpg",
+          "assets/images/elixir_bunn3.jpg"
+        ],
+        "priceRange": "$$",
+        "type": "Cafe",
+        "rating": 4.6,
+        "tags": ["Specialty Coffee", "Roastery", "Brunch"],
+        "description": "A specialty coffee shop known for its in-house roasted beans and excellent brunch menu.",
+        "featured": true,
+        "recentCheckIns": [
+          {"name": "Amira", "timestamp": "2023-06-16T10:15:00Z"},
+          {"name": "Hassan", "timestamp": "2023-06-16T09:30:00Z"}
+        ],
+        "reviews": [
+          {"name": "Leila", "rating": 5, "text": "The best specialty coffee in Riyadh! Their pour-over is exceptional."},
+          {"name": "Fahad", "rating": 4, "text": "Great atmosphere for working or meeting friends. Brunch menu is delicious."}
+        ]
+      },
+      {
+        "id": "7",
+        "name": "Roka Riyadh",
+        "image": "assets/images/roka_riyadh.jpg",
+        "carousel_images": [
+          "assets/images/roka_riyadh1.jpg",
+          "assets/images/roka_riyadh2.jpg",
+          "assets/images/roka_riyadh3.jpg"
+        ],
+        "priceRange": "$$$$",
+        "type": "Restaurant",
+        "rating": 4.8,
+        "tags": ["Japanese", "Robata Grill", "Upscale"],
+        "description": "An award-winning Japanese robata restaurant offering a unique dining experience.",
+        "featured": true,
+        "recentCheckIns": [
+          {"name": "Saad", "timestamp": "2023-06-16T21:00:00Z"},
+          {"name": "Nadia", "timestamp": "2023-06-16T20:45:00Z"}
+        ],
+        "reviews": [
+          {"name": "Yousef", "rating": 5, "text": "Exceptional Japanese cuisine! The robata grill items are a must-try."},
+          {"name": "Rania", "rating": 5, "text": "Impeccable service and ambiance. Perfect for special occasions."}
+        ]
+      },
+      {
+        "id": "8",
+        "name": "Urth Caffe",
+        "image": "assets/images/urth_caffe.jpg",
+        "carousel_images": [
+          "assets/images/urth_caffe1.jpg",
+          "assets/images/urth_caffe2.jpg",
+          "assets/images/urth_caffe3.jpg"
+        ],
+        "priceRange": "$$",
+        "type": "Cafe",
+        "rating": 4.4,
+        "tags": ["Organic Coffee", "Healthy Food", "Casual Dining"],
+        "description": "A popular cafe chain from LA, known for its organic coffee and health-conscious menu.",
+        "featured": false,
+        "recentCheckIns": [
+          {"name": "Dania", "timestamp": "2023-06-16T14:30:00Z"},
+          {"name": "Majed", "timestamp": "2023-06-16T13:45:00Z"}
+        ],
+        "reviews": [
+          {"name": "Lama", "rating": 4, "text": "Love their green tea latte and avocado toast. Great for a casual lunch."},
+          {"name": "Adel", "rating": 5, "text": "The Spanish latte is amazing! Nice outdoor seating area too."}
+        ]
+      }
+    ]
+  }
